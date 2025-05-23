@@ -1,1 +1,1 @@
-# thin-max-i18n
+# thin-max-ts-i18n
