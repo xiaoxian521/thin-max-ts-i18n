@@ -1,0 +1,1 @@
+import"./es-CyFtSPck.js";import"./dayjs.min-BpsEiJU2.js";import"./fullscreen-exit-fill-BFee4Ad9.js";import"./system-BVdZ6WQn.js";import"./form-BlDmxxrP2.js";import{t as e}from"./hook-B6FeNKe22.js";export{e as useTenantPackage};
