@@ -1,0 +1,1 @@
+import{t as e}from"./hook-BH-hgVez.js";export{e as useTenantList};

@@ -1,0 +1,1 @@
+import{t as e}from"./hook-VHriMNKq2.js";export{e as useTenantPackage};
