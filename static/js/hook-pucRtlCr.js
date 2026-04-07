@@ -1,1 +1,0 @@
-import"./es-CyFtSPck.js";import"./dayjs.min-BpsEiJU2.js";import"./fullscreen-exit-fill-BFee4Ad9.js";import"./rule-_MZ98rtD.js";import"./dict-Du4wvh2X.js";import"./form-CawCUBUd.js";import"./system-BVdZ6WQn.js";import{t as e}from"./hook-uNbYPWzd.js";export{e as useDict};
